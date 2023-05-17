@@ -62,7 +62,7 @@ siteBlocker.blockSites()
 // now open the command prompt in administration mode
 // write commnand - node [scriptlocation]/app.js
 example: 
-node C:\Users\jamat\OneDrive\Desktop\website_blocker\siteBolocker.js
+node C:\Users\jamat\OneDrive\Desktop\website_blocker\app.js
 ```
 
 
